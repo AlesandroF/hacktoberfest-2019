@@ -333,4 +333,7 @@
 - Place: Hamburg, Germany
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
-
+#### Name: [Alesandro](https://github.com/AlesandroF)
+- Place: Santa Catarina, Brasil
+- Bio: Developer
+- GitHub: [Alesandro](https://github.com/AlesandroF)
